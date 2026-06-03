@@ -43,7 +43,7 @@
 -----
 ## Entrega Módulo 1
 |Nombre|LinkCV|
-|...|...|
+|:---|:--:|
 |Flores Tomás|[CV](https://github.com/user-attachments/files/26415736/CV_TomasFlores.pdf)|
 
 ## Entrega Resumen en OVERLEAF 
